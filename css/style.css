@@ -7,7 +7,7 @@ header{
     top: 0;
     height: 45px;
     border-bottom: 2px solid var(--text-color);
-    position: absolute;
+    position: relative;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -19,6 +19,7 @@ main{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    position: relative;
     border: 2px solid var(--text-color);
     border-radius: 20px;
     padding: 2rem;
