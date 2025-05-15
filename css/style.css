@@ -26,10 +26,10 @@ main{
 
 form{
     display: flex;
-    flex-direction: row;
+    flex-direction:relative;
     justify-content: center;
     align-items: center;
-    width: 50%;
+    width: 80%;
 }
 
 input{
