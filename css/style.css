@@ -51,7 +51,7 @@ input{
 
 footer{
     bottom: 0;
-    height: 20px;
+    height: 30px;
     border-top: 2px solid var(--text-color);
     position: absolute;
     display: flex;
