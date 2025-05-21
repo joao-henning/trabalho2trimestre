@@ -48,3 +48,14 @@ input{
     width: 100%;
     position: relative;
 }
+
+footer{
+    bottom: 0;
+    height: 20px;
+    border-top: 2px solid var(--text-color);
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
